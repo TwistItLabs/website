@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Twist it labs">
+    <serverData>
+      <paths name="Twist it labs">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/srv/www-mautic/twistitlabs" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

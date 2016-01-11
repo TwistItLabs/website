@@ -1,0 +1,48 @@
+[
+    {
+        "name": "joshcam/mysqli-database-class",
+        "version": "2.1.x-dev",
+        "version_normalized": "2.1.9999999.9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/joshcam/PHP-MySQLi-Database-Class.git",
+            "reference": "f07da2ac9b022dfc10051fc0c76711949237ce95"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/joshcam/PHP-MySQLi-Database-Class/zipball/f07da2ac9b022dfc10051fc0c76711949237ce95",
+            "reference": "f07da2ac9b022dfc10051fc0c76711949237ce95",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2015-06-07 20:58:11",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "files": [
+                "MysqliDb.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0"
+        ],
+        "authors": [
+            {
+                "name": "Josh Campbell",
+                "email": "josh.lee.campbell@gmail.com",
+                "homepage": "https://github.com/joshcam",
+                "role": "Developer"
+            },
+            {
+                "name": "Alexander V. Butenko",
+                "email": "a.butenka@gmail.com",
+                "homepage": "http://smarttechdo.com",
+                "role": "Developer"
+            }
+        ],
+        "description": "Wrapper for a PHP MySQL class, which utilizes MySQLi and prepared statements."
+    }
+]
